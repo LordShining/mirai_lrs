@@ -8,7 +8,7 @@ import (
 	"github.com/Mrs4s/MiraiGo/client"
 	"github.com/Mrs4s/MiraiGo/message"
 
-	"github.com/LordShining/mirai_lrs/MiraiGo-Template/bot"
+	"github.com/LordShining/mirai_lrs/bot"
 )
 
 const (

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/LordShining/mirai_lrs/MiraiGo-Template/bot"
-	"github.com/LordShining/mirai_lrs/MiraiGo-Template/modules/lrs/game"
+	"github.com/LordShining/mirai_lrs/bot"
+	"github.com/LordShining/mirai_lrs/modules/lrs/game"
 
 	"github.com/Mrs4s/MiraiGo/client"
 	"github.com/Mrs4s/MiraiGo/message"
@@ -53,7 +53,9 @@ func (a *adapter) Stop(b *bot.Bot, wg *sync.WaitGroup) {
 }
 
 func dealWithPrivateMessage(qqClient *client.QQClient, msg *message.PrivateMessage) {
-
+	if msg.Sender.Uin == 1226286757 {
+		instance.server.TryS()
+	}
 }
 
 func registerFunc(b *bot.Bot) {

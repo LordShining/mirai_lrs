@@ -4,15 +4,17 @@ import (
 	"bufio"
 	"bytes"
 	"fmt"
-	asc2art "github.com/yinghau76/go-ascii-art"
 	"image"
 	"io/ioutil"
 	"os"
 	"strings"
 	"sync"
 
-	"github.com/Logiase/MiraiGo-Template/config"
-	"github.com/Logiase/MiraiGo-Template/utils"
+	asc2art "github.com/yinghau76/go-ascii-art"
+
+	"MiraiGo-Template/config"
+	"MiraiGo-Template/utils"
+
 	"github.com/Mrs4s/MiraiGo/client"
 	"github.com/sirupsen/logrus"
 )

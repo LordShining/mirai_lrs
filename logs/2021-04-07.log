@@ -1,0 +1,139 @@
+{"bot":"internal","level":"info","msg":"initializing modules ...","time":"2021-04-07T10:49:59+08:00"}
+{"bot":"internal","level":"info","msg":"all modules initialized","time":"2021-04-07T10:49:59+08:00"}
+{"bot":"internal","level":"info","msg":"registering modules serve functions ...","time":"2021-04-07T10:49:59+08:00"}
+{"bot":"internal","level":"info","msg":"all modules serve functions registered","time":"2021-04-07T10:49:59+08:00"}
+{"bot":"internal","level":"info","msg":"starting modules tasks ...","time":"2021-04-07T10:49:59+08:00"}
+{"bot":"internal","level":"info","msg":"tasks running","time":"2021-04-07T10:49:59+08:00"}
+{"bot":"internal","level":"info","msg":"bot login: LordShining","time":"2021-04-07T10:49:59+08:00"}
+{"bot":"internal","level":"info","msg":"start reload friends list","time":"2021-04-07T10:49:59+08:00"}
+{"bot":"internal","level":"info","msg":"load 114 friends","time":"2021-04-07T10:49:59+08:00"}
+{"bot":"internal","level":"info","msg":"start reload groups list","time":"2021-04-07T10:49:59+08:00"}
+{"bot":"internal","level":"info","msg":"load 14 groups","time":"2021-04-07T10:50:00+08:00"}
+{"MessageID":47668,"MessageIID":909110203,"SenderID":1226286757,"Target":2277533653,"from":"PrivateMessage","level":"info","module":"internal.logging","msg":"。","time":"2021-04-07T10:50:13+08:00"}
+{"bot":"internal","level":"info","msg":"stopped","time":"2021-04-07T10:52:11+08:00"}
+{"bot":"internal","level":"info","msg":"initializing modules ...","time":"2021-04-07T10:52:14+08:00"}
+{"bot":"internal","level":"info","msg":"all modules initialized","time":"2021-04-07T10:52:14+08:00"}
+{"bot":"internal","level":"info","msg":"registering modules serve functions ...","time":"2021-04-07T10:52:14+08:00"}
+{"bot":"internal","level":"info","msg":"all modules serve functions registered","time":"2021-04-07T10:52:14+08:00"}
+{"bot":"internal","level":"info","msg":"starting modules tasks ...","time":"2021-04-07T10:52:14+08:00"}
+{"bot":"internal","level":"info","msg":"tasks running","time":"2021-04-07T10:52:14+08:00"}
+{"bot":"internal","level":"info","msg":"bot login: LordShining","time":"2021-04-07T10:52:15+08:00"}
+{"bot":"internal","level":"info","msg":"start reload friends list","time":"2021-04-07T10:52:15+08:00"}
+{"bot":"internal","level":"info","msg":"load 114 friends","time":"2021-04-07T10:52:15+08:00"}
+{"bot":"internal","level":"info","msg":"start reload groups list","time":"2021-04-07T10:52:15+08:00"}
+{"bot":"internal","level":"info","msg":"load 14 groups","time":"2021-04-07T10:52:15+08:00"}
+{"MessageID":47678,"MessageIID":1118685483,"SenderID":1226286757,"Target":2277533653,"from":"PrivateMessage","level":"info","module":"internal.logging","msg":"。","time":"2021-04-07T10:52:25+08:00"}
+{"GroupCode":721023753,"MessageID":3416,"MessageIID":1822676065,"SenderID":1226286757,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"原来你是土豆啊","time":"2021-04-07T10:52:54+08:00"}
+{"GroupCode":721023753,"MessageID":3417,"MessageIID":1269113217,"SenderID":872482605,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"挖我！快把我从矿山里挖出来","time":"2021-04-07T10:58:20+08:00"}
+{"GroupCode":721023753,"MessageID":3418,"MessageIID":1544599322,"SenderID":872482605,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"我是珍贵的宝藏[傲慢]","time":"2021-04-07T10:58:29+08:00"}
+{"bot":"internal","level":"info","msg":"stopped","time":"2021-04-07T11:56:32+08:00"}
+{"bot":"internal","level":"info","msg":"initializing modules ...","time":"2021-04-07T11:58:59+08:00"}
+{"bot":"internal","level":"info","msg":"all modules initialized","time":"2021-04-07T11:58:59+08:00"}
+{"bot":"internal","level":"info","msg":"registering modules serve functions ...","time":"2021-04-07T11:58:59+08:00"}
+{"bot":"internal","level":"info","msg":"all modules serve functions registered","time":"2021-04-07T11:58:59+08:00"}
+{"bot":"internal","level":"info","msg":"starting modules tasks ...","time":"2021-04-07T11:58:59+08:00"}
+{"bot":"internal","level":"info","msg":"tasks running","time":"2021-04-07T11:58:59+08:00"}
+{"bot":"internal","level":"info","msg":"bot login: LordShining","time":"2021-04-07T11:59:00+08:00"}
+{"bot":"internal","level":"info","msg":"start reload friends list","time":"2021-04-07T11:59:00+08:00"}
+{"bot":"internal","level":"info","msg":"load 114 friends","time":"2021-04-07T11:59:00+08:00"}
+{"bot":"internal","level":"info","msg":"start reload groups list","time":"2021-04-07T11:59:00+08:00"}
+{"bot":"internal","level":"info","msg":"load 14 groups","time":"2021-04-07T11:59:00+08:00"}
+{"bot":"internal","level":"info","msg":"stopped","time":"2021-04-07T12:07:41+08:00"}
+{"bot":"internal","level":"info","msg":"initializing modules ...","time":"2021-04-07T12:07:46+08:00"}
+{"bot":"internal","level":"info","msg":"all modules initialized","time":"2021-04-07T12:07:46+08:00"}
+{"bot":"internal","level":"info","msg":"registering modules serve functions ...","time":"2021-04-07T12:07:46+08:00"}
+{"bot":"internal","level":"info","msg":"all modules serve functions registered","time":"2021-04-07T12:07:46+08:00"}
+{"bot":"internal","level":"info","msg":"starting modules tasks ...","time":"2021-04-07T12:07:46+08:00"}
+{"bot":"internal","level":"info","msg":"tasks running","time":"2021-04-07T12:07:46+08:00"}
+{"bot":"internal","level":"info","msg":"bot login: LordShining","time":"2021-04-07T12:07:46+08:00"}
+{"bot":"internal","level":"info","msg":"start reload friends list","time":"2021-04-07T12:07:46+08:00"}
+{"bot":"internal","level":"info","msg":"load 114 friends","time":"2021-04-07T12:07:46+08:00"}
+{"bot":"internal","level":"info","msg":"start reload groups list","time":"2021-04-07T12:07:46+08:00"}
+{"bot":"internal","level":"info","msg":"load 14 groups","time":"2021-04-07T12:07:47+08:00"}
+{"bot":"internal","level":"info","msg":"stopped","time":"2021-04-07T12:07:48+08:00"}
+{"bot":"internal","level":"info","msg":"initializing modules ...","time":"2021-04-07T12:13:55+08:00"}
+{"bot":"internal","level":"info","msg":"all modules initialized","time":"2021-04-07T12:13:55+08:00"}
+{"bot":"internal","level":"info","msg":"registering modules serve functions ...","time":"2021-04-07T12:13:55+08:00"}
+{"bot":"internal","level":"info","msg":"all modules serve functions registered","time":"2021-04-07T12:13:55+08:00"}
+{"bot":"internal","level":"info","msg":"starting modules tasks ...","time":"2021-04-07T12:13:55+08:00"}
+{"bot":"internal","level":"info","msg":"tasks running","time":"2021-04-07T12:13:55+08:00"}
+{"bot":"internal","level":"info","msg":"bot login: LordShining","time":"2021-04-07T12:13:56+08:00"}
+{"bot":"internal","level":"info","msg":"start reload friends list","time":"2021-04-07T12:13:56+08:00"}
+{"bot":"internal","level":"info","msg":"load 114 friends","time":"2021-04-07T12:13:56+08:00"}
+{"bot":"internal","level":"info","msg":"start reload groups list","time":"2021-04-07T12:13:56+08:00"}
+{"bot":"internal","level":"info","msg":"load 14 groups","time":"2021-04-07T12:13:56+08:00"}
+{"MessageID":27219,"MessageIID":1095017269,"SenderID":1226286757,"Target":2277533653,"from":"PrivateMessage","level":"info","module":"internal.logging","msg":"。","time":"2021-04-07T12:14:04+08:00"}
+{"bot":"internal","level":"info","msg":"stopped","time":"2021-04-07T12:14:28+08:00"}
+{"bot":"internal","level":"info","msg":"initializing modules ...","time":"2021-04-07T12:14:46+08:00"}
+{"bot":"internal","level":"info","msg":"all modules initialized","time":"2021-04-07T12:14:46+08:00"}
+{"bot":"internal","level":"info","msg":"registering modules serve functions ...","time":"2021-04-07T12:14:46+08:00"}
+{"bot":"internal","level":"info","msg":"all modules serve functions registered","time":"2021-04-07T12:14:46+08:00"}
+{"bot":"internal","level":"info","msg":"starting modules tasks ...","time":"2021-04-07T12:14:46+08:00"}
+{"bot":"internal","level":"info","msg":"tasks running","time":"2021-04-07T12:14:46+08:00"}
+{"bot":"internal","level":"info","msg":"bot login: LordShining","time":"2021-04-07T12:14:47+08:00"}
+{"bot":"internal","level":"info","msg":"start reload friends list","time":"2021-04-07T12:14:47+08:00"}
+{"bot":"internal","level":"info","msg":"load 114 friends","time":"2021-04-07T12:14:47+08:00"}
+{"bot":"internal","level":"info","msg":"start reload groups list","time":"2021-04-07T12:14:47+08:00"}
+{"bot":"internal","level":"info","msg":"load 14 groups","time":"2021-04-07T12:14:47+08:00"}
+{"MessageID":27226,"MessageIID":1845576203,"SenderID":1226286757,"Target":2277533653,"from":"PrivateMessage","level":"info","module":"internal.logging","msg":"。","time":"2021-04-07T12:14:53+08:00"}
+{"GroupCode":883866459,"MessageID":296,"MessageIID":1571428792,"SenderID":872482605,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"那可能就全靠自觉了","time":"2021-04-07T12:14:55+08:00"}
+{"GroupCode":883866459,"MessageID":297,"MessageIID":961152280,"SenderID":872482605,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"出局的狼在小群发言，就可以指刀或者指导发言，这样子影响游戏公平性呀","time":"2021-04-07T12:15:52+08:00"}
+{"GroupCode":883866459,"MessageID":298,"MessageIID":110812656,"SenderID":1226286757,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"我感觉也不需要太多控制，能推进流程就好[哦]还是太菜了","time":"2021-04-07T12:16:01+08:00"}
+{"GroupCode":883866459,"MessageID":299,"MessageIID":2074540587,"SenderID":1226286757,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"什么公平性😂","time":"2021-04-07T12:16:22+08:00"}
+{"GroupCode":883866459,"MessageID":300,"MessageIID":882501580,"SenderID":872482605,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"因为在好人阵营里面有一个角色叫白痴，技能就是公投出去以后还可以继续发言，属于神职","time":"2021-04-07T12:16:30+08:00"}
+{"GroupCode":883866459,"MessageID":301,"MessageIID":465354185,"SenderID":244558417,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"设置个墓地？","time":"2021-04-07T12:17:11+08:00"}
+{"GroupCode":883866459,"MessageID":302,"MessageIID":71942773,"SenderID":1226286757,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"那狼被投出去后好有没有留在小群的意义，要不出局的直接踢？","time":"2021-04-07T12:17:26+08:00"}
+{"GroupCode":883866459,"MessageID":302,"OperatorID":1226286757,"SenderID":1226286757,"from":"GroupMessageRecall","level":"info","module":"internal.logging","msg":"group message recall","time":"2021-04-07T12:17:34+08:00"}
+{"GroupCode":883866459,"MessageID":303,"MessageIID":937986265,"SenderID":872482605,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"如果出局的狼还可以指刀，那就对好人不公平了","time":"2021-04-07T12:17:34+08:00"}
+{"GroupCode":883866459,"MessageID":304,"MessageIID":1805064057,"SenderID":872482605,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"哈哈哈哈哈哈","time":"2021-04-07T12:17:36+08:00"}
+{"GroupCode":883866459,"MessageID":305,"MessageIID":1585692120,"SenderID":1226286757,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"那狼被投出去后还没有留在小群的意义，要不出局的直接踢？","time":"2021-04-07T12:17:43+08:00"}
+{"GroupCode":883866459,"MessageID":306,"MessageIID":153650156,"SenderID":872482605,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"整挺好","time":"2021-04-07T12:17:53+08:00"}
+{"GroupCode":883866459,"MessageID":307,"MessageIID":1122811293,"SenderID":872482605,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"哎其实这个也靠自觉哈哈哈哈哈","time":"2021-04-07T12:18:09+08:00"}
+{"GroupCode":883866459,"MessageID":308,"MessageIID":1565057614,"SenderID":872482605,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"能推进流程就好了[期待]","time":"2021-04-07T12:18:23+08:00"}
+{"GroupCode":883866459,"MessageID":309,"MessageIID":1682319794,"SenderID":872482605,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"墓地哈哈哈哈哈","time":"2021-04-07T12:18:27+08:00"}
+{"GroupCode":883866459,"MessageID":310,"MessageIID":1030435668,"SenderID":1226286757,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"那就直接踢吧，反正大群可以水，语音也可以踢","time":"2021-04-07T12:19:02+08:00"}
+{"GroupCode":883866459,"MessageID":311,"MessageIID":1020241611,"SenderID":1226286757,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"[Image:F0D4F609BA47A28E1E8D941D7CACF5B2.jpg]","time":"2021-04-07T12:19:04+08:00"}
+{"GroupCode":883866459,"MessageID":310,"OperatorID":1226286757,"SenderID":1226286757,"from":"GroupMessageRecall","level":"info","module":"internal.logging","msg":"group message recall","time":"2021-04-07T12:19:06+08:00"}
+{"GroupCode":883866459,"MessageID":312,"MessageIID":344313342,"SenderID":1226286757,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"那就直接踢吧，反正大群可以水，语音也可以听","time":"2021-04-07T12:19:10+08:00"}
+{"GroupCode":883866459,"MessageID":313,"MessageIID":159662244,"SenderID":872482605,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"[Image:592969879FBEEFAF4718B979CBC8A211.jpg]","time":"2021-04-07T12:20:27+08:00"}
+{"GroupCode":883866459,"MessageID":314,"MessageIID":74089591,"SenderID":1226286757,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"还有就是，邀请做不了，功能被限制了。只能看到狼人身份自己申请加群了[汪汪]进群有做判断，不是狼人不能进","time":"2021-04-07T12:20:28+08:00"}
+{"bot":"internal","level":"info","msg":"stopped","time":"2021-04-07T15:01:27+08:00"}
+{"bot":"internal","level":"info","msg":"initializing modules ...","time":"2021-04-07T19:17:53+08:00"}
+{"bot":"internal","level":"info","msg":"all modules initialized","time":"2021-04-07T19:17:53+08:00"}
+{"bot":"internal","level":"info","msg":"registering modules serve functions ...","time":"2021-04-07T19:17:53+08:00"}
+{"bot":"internal","level":"info","msg":"all modules serve functions registered","time":"2021-04-07T19:17:53+08:00"}
+{"bot":"internal","level":"info","msg":"starting modules tasks ...","time":"2021-04-07T19:17:53+08:00"}
+{"bot":"internal","level":"info","msg":"tasks running","time":"2021-04-07T19:17:53+08:00"}
+{"bot":"internal","level":"info","msg":"bot login: LordShining","time":"2021-04-07T19:17:54+08:00"}
+{"bot":"internal","level":"info","msg":"start reload friends list","time":"2021-04-07T19:17:54+08:00"}
+{"bot":"internal","level":"info","msg":"load 113 friends","time":"2021-04-07T19:17:54+08:00"}
+{"bot":"internal","level":"info","msg":"start reload groups list","time":"2021-04-07T19:17:54+08:00"}
+{"bot":"internal","level":"info","msg":"load 14 groups","time":"2021-04-07T19:17:55+08:00"}
+{"GroupCode":883866459,"MessageID":330,"MessageIID":26625756,"SenderID":1226286757,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"神职的技能做起来比想象中复杂","time":"2021-04-07T19:18:39+08:00"}
+{"GroupCode":883866459,"MessageID":331,"MessageIID":405651835,"SenderID":1226286757,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"@LordShining 狼人杀","time":"2021-04-07T19:19:26+08:00"}
+{"GroupCode":883866459,"MessageID":332,"MessageIID":787222649,"SenderID":1226286757,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"[Image:E4A00530A218F896F26A5E1F7561AAA2.jpg]","time":"2021-04-07T19:20:06+08:00"}
+{"bot":"internal","level":"info","msg":"stopped","time":"2021-04-07T19:21:08+08:00"}
+{"bot":"internal","level":"info","msg":"initializing modules ...","time":"2021-04-07T19:21:13+08:00"}
+{"bot":"internal","level":"info","msg":"all modules initialized","time":"2021-04-07T19:21:13+08:00"}
+{"bot":"internal","level":"info","msg":"registering modules serve functions ...","time":"2021-04-07T19:21:13+08:00"}
+{"bot":"internal","level":"info","msg":"all modules serve functions registered","time":"2021-04-07T19:21:13+08:00"}
+{"bot":"internal","level":"info","msg":"starting modules tasks ...","time":"2021-04-07T19:21:13+08:00"}
+{"bot":"internal","level":"info","msg":"tasks running","time":"2021-04-07T19:21:13+08:00"}
+{"bot":"internal","level":"info","msg":"bot login: LordShining","time":"2021-04-07T19:21:13+08:00"}
+{"bot":"internal","level":"info","msg":"start reload friends list","time":"2021-04-07T19:21:13+08:00"}
+{"bot":"internal","level":"info","msg":"load 113 friends","time":"2021-04-07T19:21:13+08:00"}
+{"bot":"internal","level":"info","msg":"start reload groups list","time":"2021-04-07T19:21:13+08:00"}
+{"bot":"internal","level":"info","msg":"load 14 groups","time":"2021-04-07T19:21:14+08:00"}
+{"GroupCode":883866459,"MessageID":333,"MessageIID":979374958,"SenderID":244558417,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"👀","time":"2021-04-07T19:21:18+08:00"}
+{"GroupCode":883866459,"MessageID":334,"MessageIID":1794765860,"SenderID":1226286757,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"@LordShining 狼人杀","time":"2021-04-07T19:21:24+08:00"}
+{"GroupCode":883866459,"MessageID":336,"MessageIID":458618967,"SenderID":1226286757,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"刚刚配错群号了","time":"2021-04-07T19:21:31+08:00"}
+{"GroupCode":883866459,"MessageID":337,"MessageIID":240109528,"SenderID":244558417,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"2333","time":"2021-04-07T19:21:49+08:00"}
+{"GroupCode":883866459,"MessageID":338,"MessageIID":1637096081,"SenderID":1226286757,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"吓我一跳，今天把原来的代码重构了，真的是越写越嫌弃","time":"2021-04-07T19:22:02+08:00"}
+{"GroupCode":883866459,"MessageID":339,"MessageIID":1452349108,"SenderID":1226286757,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"[Image:F0D4F609BA47A28E1E8D941D7CACF5B2.jpg]","time":"2021-04-07T19:22:02+08:00"}
+{"GroupCode":883866459,"MessageID":340,"MessageIID":1622262220,"SenderID":1226286757,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"@LordShining +","time":"2021-04-07T19:22:11+08:00"}
+{"GroupCode":883866459,"MessageID":342,"MessageIID":685591064,"SenderID":244558417,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"@LordShining +","time":"2021-04-07T19:22:28+08:00"}
+{"GroupCode":883866459,"MessageID":344,"MessageIID":1218303636,"SenderID":695283738,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"@LordShining +","time":"2021-04-07T19:24:00+08:00"}
+{"GroupCode":883866459,"MessageID":346,"MessageIID":673232866,"SenderID":1226286757,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"好家伙，昨天不该让大家屏蔽的[哦]","time":"2021-04-07T19:29:23+08:00"}
+{"GroupCode":883866459,"MessageID":347,"MessageIID":1450933825,"SenderID":1226286757,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"@LordShining 狼人杀","time":"2021-04-07T19:30:39+08:00"}
+{"GroupCode":883866459,"MessageID":349,"MessageIID":242271104,"SenderID":1226286757,"from":"GroupMessage","level":"info","module":"internal.logging","msg":"@LordShining 开始","time":"2021-04-07T19:31:01+08:00"}
+{"bot":"internal","level":"info","msg":"stopped","time":"2021-04-07T19:34:02+08:00"}

@@ -1,10 +1,11 @@
 package lrs
 
 import (
-	"MiraiGo-Template/bot"
-	"MiraiGo-Template/modules/lrs/game"
 	"fmt"
 	"sync"
+
+	"github.com/LordShining/mirai_lrs/MiraiGo-Template/bot"
+	"github.com/LordShining/mirai_lrs/MiraiGo-Template/modules/lrs/game"
 
 	"github.com/Mrs4s/MiraiGo/client"
 	"github.com/Mrs4s/MiraiGo/message"

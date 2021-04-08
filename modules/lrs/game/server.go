@@ -1,8 +1,9 @@
 package game
 
 import (
-	"MiraiGo-Template/bot"
 	"sync"
+
+	"github.com/LordShining/mirai_lrs/MiraiGo-Template/bot"
 
 	"github.com/Mrs4s/MiraiGo/message"
 )

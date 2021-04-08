@@ -12,8 +12,8 @@ import (
 
 	asc2art "github.com/yinghau76/go-ascii-art"
 
-	"MiraiGo-Template/config"
-	"MiraiGo-Template/utils"
+	"github.com/LordShining/mirai_lrs/MiraiGo-Template/config"
+	"github.com/LordShining/mirai_lrs/MiraiGo-Template/utils"
 
 	"github.com/Mrs4s/MiraiGo/client"
 	"github.com/sirupsen/logrus"

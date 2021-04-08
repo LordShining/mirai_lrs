@@ -1,4 +1,4 @@
-module MiraiGo-Template
+module github.com/LordShining/mirai_lrs/MiraiGo-Template
 
 go 1.15
 

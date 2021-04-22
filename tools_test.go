@@ -3,7 +3,7 @@ package main_test
 import (
 	"testing"
 
-	"github.com/Logiase/MiraiGo-Template/bot"
+	"github.com/LordShining/mirai_lrs/bot"
 )
 
 func TestGenDevice(t *testing.T) {
